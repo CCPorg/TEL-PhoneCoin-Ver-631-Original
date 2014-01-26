@@ -1,0 +1,9 @@
+Building PhoneCoin
+
+See doc/readme-qt.rst for instructions on building PhoneCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PhoneCoin.
+
+See doc/build-*.txt for instructions on building PhoneCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PhoneCoin.
